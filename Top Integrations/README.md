@@ -40,7 +40,7 @@ The top-level integration connects the EEG front-end signal path through three s
 </p>
 <h4 align="center" style="font-size:16px;">Figure 6. Output Signals per-Stage in Top Integration (1)</h4>
 <p align="center">
-  <img src="../../images/FullSchem_Tb2.jpg" alt="LPF_EXT_REV" width="700"/>
+  <img src="../Images/FullSchem_Tb2.jpg" alt="LPF_EXT_REV" width="700"/>
 </p>
 <h4 align="center" style="font-size:16px;">Figure 7. Output Signals per-Stage in Top Integration (2)</h4>
 <p align="center">
