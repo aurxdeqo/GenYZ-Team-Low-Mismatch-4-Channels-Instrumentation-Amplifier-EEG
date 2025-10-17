@@ -54,7 +54,7 @@ The chopper switch is implemented to reduce low-frequency (1/f) noise and input 
 <h4 align="center" style="font-size:16px;">Figure 6. Chopper Switch C Simulation 1</h4>
 
 <p align="center">
-  <img src="../images/CSC_Tb_Res2.jpg" alt="SwitchTb" width="450"/>
+  <img src="../Images/CSC_Tb_Res2.jpg" alt="SwitchTb" width="450"/>
 </p>
 <h4 align="center" style="font-size:16px;">Figure 7. Chopper Switch C Simulation 2</h4>
 
